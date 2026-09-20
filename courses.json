@@ -1,0 +1,9 @@
+[
+  {
+    "id": 2,
+    "name": "REST API Fundamentals",
+    "description": "Learn HTTP methods and API design.",
+    "target_completion_date": "2026-10-15",
+    "status": "Not Started"
+  }
+]
